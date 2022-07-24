@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://elegangit.github.io/csb-rrwujs/static/css/main.f16f0ef1.chunk.css",
+    "main.js": "https://elegangit.github.io/csb-rrwujs/static/js/main.ab3a9eff.chunk.js",
+    "main.js.map": "https://elegangit.github.io/csb-rrwujs/static/js/main.ab3a9eff.chunk.js.map",
+    "runtime-main.js": "https://elegangit.github.io/csb-rrwujs/static/js/runtime-main.299c76de.js",
+    "runtime-main.js.map": "https://elegangit.github.io/csb-rrwujs/static/js/runtime-main.299c76de.js.map",
+    "static/js/2.fdd0b5f6.chunk.js": "https://elegangit.github.io/csb-rrwujs/static/js/2.fdd0b5f6.chunk.js",
+    "static/js/2.fdd0b5f6.chunk.js.map": "https://elegangit.github.io/csb-rrwujs/static/js/2.fdd0b5f6.chunk.js.map",
+    "index.html": "https://elegangit.github.io/csb-rrwujs/index.html",
+    "static/css/main.f16f0ef1.chunk.css.map": "https://elegangit.github.io/csb-rrwujs/static/css/main.f16f0ef1.chunk.css.map",
+    "static/js/2.fdd0b5f6.chunk.js.LICENSE.txt": "https://elegangit.github.io/csb-rrwujs/static/js/2.fdd0b5f6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.299c76de.js",
+    "static/js/2.fdd0b5f6.chunk.js",
+    "static/css/main.f16f0ef1.chunk.css",
+    "static/js/main.ab3a9eff.chunk.js"
+  ]
+}
